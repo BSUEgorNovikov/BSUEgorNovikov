@@ -28,7 +28,7 @@ For more information you can check my [CV](https://github.com/BSUEgorNovikov/BSU
 |------------------------|----------------------------------------|
 | Java                   | [BSU, Java semester project](https://github.com/BSUEgorNovikov/industrial-programming)
 ||[Java lecture tasks](https://github.com/BSUEgorNovikov/java_lecture_tasks) |
-||[Java colloquium](https://github.com/BSUEgorNovikov/java_lecture_tasks) |
+||[Java colloquium](https://github.com/BSUEgorNovikov/Ind.Programming_coloqium) |
 | С++                 | [BSU, OS labs](https://github.com/BSUEgorNovikov/operation_systems_labs) |
 || [OS colloquium](https://github.com/BSUEgorNovikov/OS_coloquim) |
 || [Second OS colloquium](https://github.com/BSUEgorNovikov/os_coloqium_2) |
