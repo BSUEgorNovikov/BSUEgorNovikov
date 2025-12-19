@@ -31,5 +31,5 @@ For more information you can check my [CV](https://github.com/BSUEgorNovikov/BSU
 | С++                 | [BSU, OS labs](https://github.com/BSUEgorNovikov/operation_systems_labs) |
 || [OS colloquium](https://github.com/BSUEgorNovikov/OS_coloquim) |
 || [Second OS colloquium](https://github.com/BSUEgorNovikov/os_coloqium_2) |
-| Python              | [Flask CRUD project] (https://github.com/BSUEgorNovikov/testproject) |
-|| [ML cheatsheets (NP, PD, XGBoost)] (https://github.com/BSUEgorNovikov/train_for_ML-python-) |
+| Python              | [Flask CRUD project](https://github.com/BSUEgorNovikov/testproject) |
+|| [ML cheatsheets (NP, PD, XGBoost)](https://github.com/BSUEgorNovikov/train_for_ML-python-) |
