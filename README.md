@@ -4,7 +4,7 @@
 
 # 🧑🏻About me
 Friendly Developer from Minsk, Belarus😀
-For more information you can check my [CV](https://github.com/BSUEgorNovikov/BSUEgorNovikov/blob/main/Egor_Novikov_-_Student%20(1).pdf)
+For more information you can check my [CV](https://github.com/BSUEgorNovikov/BSUEgorNovikov/blob/main/Yahor_Noviaku_cv.pdf)
 # ⚡Github activity
 ### ⚙️Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BSUEgorNovikov&theme=solarized_dark)
